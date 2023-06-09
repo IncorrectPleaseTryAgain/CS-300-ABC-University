@@ -1,4 +1,4 @@
-# CS-300-Module-8-Journal
+# CS-300 ABC University | Binary Search Tree
 
 # What was the problem you were solving in the projects for this course?
 The projects in this course had specific problems that needed to be solved. The scenario was that "ABC University (ABCU) was looking for software that will help their computer science advisors access course information for students". I was  required to demonstrate my ability to write plan and write a program that could import data from a file and store it in an appropriate data structure.
